@@ -17,7 +17,7 @@ public class Wordle {
         }
         int randomNumber = rand.nextInt(words.length);
         String keyword = words[randomNumber];
-        System.out.println(keyword);
+        
         for (int k=0 ; k < 6 ; k++ ){
             List<String> wordsList = new ArrayList<>(Arrays.asList(words));
             System.out.println("You have " + (6-k) +  " right to guess.Enter your guess : ");
