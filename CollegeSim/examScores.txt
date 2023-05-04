@@ -1,0 +1,12 @@
+SE1004: Introduction to Programming II
+Thomas Williams -> Midterm Exam: 33 Final Exam: 47
+Jacob Taylor -> Midterm Exam: 45 Final Exam: 59
+
+CENG1004: Introduction to Object Oriented Programming
+Harry Davies -> Midterm Exam: 63 Final Exam: 39
+Jacob Taylor -> Midterm Exam: 43 Final Exam: 87
+
+YZ5511: Deep Learning and Applications
+Sophie Smith -> Midterm Exam: 38 Final Exam: 80
+Harry Davies -> Midterm Exam: 65 Final Exam: 85
+
